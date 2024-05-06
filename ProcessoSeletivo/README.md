@@ -1,18 +1,13 @@
-## Getting Started
+# Exercício da DIO em java ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste exercicio treinamos toda a parte de **Controle de Fluxo**.
 
-## Folder Structure
+ **Ultilizando Do While, While, For, ForEach, If e Else.**
+ 
+  - **1° Passo**, o programa verifica se o valor do salário pretendido é maior, menor ou igual ao salario base da empresa, e simula uma ligação de acordo com a resposta.
 
-The workspace contains two folders by default, where:
+   - **2° Passo**, o programa seleciona 5 candidados do array de acordo com o salário pretendido.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+   - **3° Passo**, o programa imprime a lista de candidatos, informando o seu indice.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   - **4° Passo**, o programa simula chamadas para os candidatos, caso consiga exibe uma mensagem de cumprimento, caso contrário o número de tentativas ultrapassa o limite, mostrando uma mensagem de finalização.
