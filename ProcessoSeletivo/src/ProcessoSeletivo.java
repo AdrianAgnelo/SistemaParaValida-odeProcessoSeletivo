@@ -11,7 +11,7 @@ public class ProcessoSeletivo {
         System.out.println("Imprimindo a lista de candidatos informando o indice do elemento");
 
         for (int i=0; i < candidatos.length; i++){
-            
+            System.out.println("O candidato de n° " + (i+1) + " é o " + candidatos[i]);
         }
     }
 
